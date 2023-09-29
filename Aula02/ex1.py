@@ -4,7 +4,7 @@ import copy
 def main():
     #Load image
     image_ori = cv2.imread('../savi_23-24/Parte02/images/lake.jpg')
-
+    #teste
     #Print Image type
     print(type(image_ori))
     print(image_ori.shape)
